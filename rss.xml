@@ -2,89 +2,89 @@
 <rss version="2.0">
     <channel>
         <title>IndulgeBack</title>
-        <link>https://blog.imsyy.top</link>
-        <description>Hello World</description>
-        <lastBuildDate>Fri, 21 Feb 2025 11:10:52 GMT</lastBuildDate>
+        <link>https://indulgeback.github.io</link>
+        <description>迷恋阿丽，热爱技术，期待你我的共同进步😜</description>
+        <lastBuildDate>Thu, 27 Feb 2025 07:09:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>LeviLiu</generator>
         <language>zh</language>
         <copyright>Copyright © 2020-present LeviLiu</copyright>
         <item>
             <title><![CDATA[《探索 three.js》推荐]]></title>
-            <link>https://blog.imsyy.top/posts/书籍推荐/2、探索three.js</link>
-            <guid>https://blog.imsyy.top/posts/书籍推荐/2、探索three.js</guid>
+            <link>https://indulgeback.github.io/posts/书籍推荐/2、探索three.js</link>
+            <guid>https://indulgeback.github.io/posts/书籍推荐/2、探索three.js</guid>
             <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[介绍了探索 three.js 这本书]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
         <item>
             <title><![CDATA[《JavaScript设计模式与开发实践》推荐]]></title>
-            <link>https://blog.imsyy.top/posts/书籍推荐/1、JavaScript设计模式与开发实践</link>
-            <guid>https://blog.imsyy.top/posts/书籍推荐/1、JavaScript设计模式与开发实践</guid>
+            <link>https://indulgeback.github.io/posts/书籍推荐/1、JavaScript设计模式与开发实践</link>
+            <guid>https://indulgeback.github.io/posts/书籍推荐/1、JavaScript设计模式与开发实践</guid>
             <pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[介绍了JavaScript设计模式与开发实践这本书]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
         <item>
             <title><![CDATA[面对对象 - 类与类之间的关系]]></title>
-            <link>https://blog.imsyy.top/posts/技术内功/4、面对对象 - 类与类之间的关系</link>
-            <guid>https://blog.imsyy.top/posts/技术内功/4、面对对象 - 类与类之间的关系</guid>
+            <link>https://indulgeback.github.io/posts/技术内功/4、面对对象 - 类与类之间的关系</link>
+            <guid>https://indulgeback.github.io/posts/技术内功/4、面对对象 - 类与类之间的关系</guid>
             <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[介绍了类与类之间的关系]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
         <item>
             <title><![CDATA[NestJS入门]]></title>
-            <link>https://blog.imsyy.top/posts/NestJS/1、NestJS入门</link>
-            <guid>https://blog.imsyy.top/posts/NestJS/1、NestJS入门</guid>
+            <link>https://indulgeback.github.io/posts/NestJS/1、NestJS入门</link>
+            <guid>https://indulgeback.github.io/posts/NestJS/1、NestJS入门</guid>
             <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[介绍了NestJS入门, 包括起步、安装nestjs/cli、命令行工具、NestJS结构介绍。]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
         <item>
             <title><![CDATA[SWC入门与使用]]></title>
-            <link>https://blog.imsyy.top/posts/前端工具/3、SWC入门与使用</link>
-            <guid>https://blog.imsyy.top/posts/前端工具/3、SWC入门与使用</guid>
+            <link>https://indulgeback.github.io/posts/前端工具/3、SWC入门与使用</link>
+            <guid>https://indulgeback.github.io/posts/前端工具/3、SWC入门与使用</guid>
             <pubDate>Sun, 29 Sep 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[介绍了SWC的简介、核心功能、简单使用]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
         <item>
             <title><![CDATA[Zustand使用]]></title>
-            <link>https://blog.imsyy.top/posts/React/6、Zustand的使用</link>
-            <guid>https://blog.imsyy.top/posts/React/6、Zustand的使用</guid>
+            <link>https://indulgeback.github.io/posts/React/6、Zustand的使用</link>
+            <guid>https://indulgeback.github.io/posts/React/6、Zustand的使用</guid>
             <pubDate>Sat, 17 Feb 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[介绍了Zustand的使用, 包括基础使用、异步支持、切片模式、对接 DevTools。]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
         <item>
             <title><![CDATA[React Class Component]]></title>
-            <link>https://blog.imsyy.top/posts/React/5、React-class-component</link>
-            <guid>https://blog.imsyy.top/posts/React/5、React-class-component</guid>
+            <link>https://indulgeback.github.io/posts/React/5、React-class-component</link>
+            <guid>https://indulgeback.github.io/posts/React/5、React-class-component</guid>
             <pubDate>Sat, 10 Feb 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[介绍了React Class Component, 包括基础体验、组件生命周期、组件通信。]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
         <item>
             <title><![CDATA[React常用hooks]]></title>
-            <link>https://blog.imsyy.top/posts/React/4、React常用hooks</link>
-            <guid>https://blog.imsyy.top/posts/React/4、React常用hooks</guid>
+            <link>https://indulgeback.github.io/posts/React/4、React常用hooks</link>
+            <guid>https://indulgeback.github.io/posts/React/4、React常用hooks</guid>
             <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[介绍了React常用hooks, 包括useReducer、useMemo、React.memo、useCallback、forwardRef、useImperativeHandle。]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
         <item>
             <title><![CDATA[ReactRouter]]></title>
-            <link>https://blog.imsyy.top/posts/React/2、ReactRouter</link>
-            <guid>https://blog.imsyy.top/posts/React/2、ReactRouter</guid>
+            <link>https://indulgeback.github.io/posts/React/2、ReactRouter</link>
+            <guid>https://indulgeback.github.io/posts/React/2、ReactRouter</guid>
             <pubDate>Sun, 04 Feb 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[介绍了ReactRouter, 包括什么是前端路由、创建路由开发环境、快速开始、路由导航、导航传参、嵌套路由配置、俩种路由模式。]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
         <item>
             <title><![CDATA[Redux]]></title>
-            <link>https://blog.imsyy.top/posts/React/3、Redux</link>
-            <guid>https://blog.imsyy.top/posts/React/3、Redux</guid>
+            <link>https://indulgeback.github.io/posts/React/3、Redux</link>
+            <guid>https://indulgeback.github.io/posts/React/3、Redux</guid>
             <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[介绍了Redux, 包括Redux快速体验、Redux数据流架构、Redux与React、Redux与React-提交action传参、Redux与React-异步action处理。]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
