@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>IndulgeBack</title>
+        <link>https://indulgeback.github.io</link>
+        <description>迷恋阿丽，热爱技术，期待你我的共同进步😜</description>
+        <lastBuildDate>Thu, 26 Jun 2025 04:28:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>LeviLiu</generator>
+        <language>zh</language>
+        <copyright>Copyright © 2020-present LeviLiu</copyright>
+        <item>
+            <title><![CDATA[🎬 开源宝藏：Video Frame Extractor，视频帧提取神器]]></title>
+            <link>https://indulgeback.github.io/posts/开源工具/1、🎬 开源宝藏：Video Frame Extractor，视频帧提取神器</link>
+            <guid>https://indulgeback.github.io/posts/开源工具/1、🎬 开源宝藏：Video Frame Extractor，视频帧提取神器</guid>
+            <pubDate>Wed, 25 Jun 2025 16:00:00 GMT</pubDate>
+            <description><![CDATA[详细介绍了一款基于OpenCV的开源视频帧提取工具Video Frame Extractor，包括其功能特性、安装使用方法、性能优势以及适用场景，为视频处理工作提供高效解决方案。]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[计算机网络]]></title>
+            <link>https://indulgeback.github.io/posts/技术内功/5、计算机网络</link>
+            <guid>https://indulgeback.github.io/posts/技术内功/5、计算机网络</guid>
+            <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[探索计算机网络基础知识，了解数据传输原理和网络协议栈的工作机制。]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[我的大学]]></title>
+            <link>https://indulgeback.github.io/posts/情感/2、我的大学</link>
+            <guid>https://indulgeback.github.io/posts/情感/2、我的大学</guid>
+            <pubDate>Wed, 19 Mar 2025 16:00:00 GMT</pubDate>
+            <description><![CDATA[我的大学生活]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[实用命令]]></title>
+            <link>https://indulgeback.github.io/posts/前端工具/4、实用命令</link>
+            <guid>https://indulgeback.github.io/posts/前端工具/4、实用命令</guid>
+            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[记录一些实用的开发命令]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[《探索 three.js》推荐]]></title>
+            <link>https://indulgeback.github.io/posts/书籍推荐/2、探索three.js</link>
+            <guid>https://indulgeback.github.io/posts/书籍推荐/2、探索three.js</guid>
+            <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[介绍了探索 three.js 这本书]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[V8垃圾回收与GC算法]]></title>
+            <link>https://indulgeback.github.io/posts/技术内功/4、V8垃圾回收与GC算法</link>
+            <guid>https://indulgeback.github.io/posts/技术内功/4、V8垃圾回收与GC算法</guid>
+            <pubDate>Sat, 11 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[介绍了V8垃圾回收与GC算法]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[性能优化之requestAnimationFrame与requestIdleCallback]]></title>
+            <link>https://indulgeback.github.io/posts/技术内功/3、性能优化之requestAnimationFrame与requestIdleCallback</link>
+            <guid>https://indulgeback.github.io/posts/技术内功/3、性能优化之requestAnimationFrame与requestIdleCallback</guid>
+            <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[介绍了requestAnimationFrame与requestIdleCallback的用法和适用场景]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[《JavaScript设计模式与开发实践》推荐]]></title>
+            <link>https://indulgeback.github.io/posts/书籍推荐/1、JavaScript设计模式与开发实践</link>
+            <guid>https://indulgeback.github.io/posts/书籍推荐/1、JavaScript设计模式与开发实践</guid>
+            <pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[介绍了JavaScript设计模式与开发实践这本书]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[面对对象 - 类与类之间的关系]]></title>
+            <link>https://indulgeback.github.io/posts/技术内功/2、面对对象 - 类与类之间的关系</link>
+            <guid>https://indulgeback.github.io/posts/技术内功/2、面对对象 - 类与类之间的关系</guid>
+            <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[介绍了类与类之间的关系]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[NestJS入门]]></title>
+            <link>https://indulgeback.github.io/posts/NestJS/1、NestJS入门</link>
+            <guid>https://indulgeback.github.io/posts/NestJS/1、NestJS入门</guid>
+            <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[介绍了NestJS入门, 包括起步、安装nestjs/cli、命令行工具、NestJS结构介绍。]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
+    </channel>
+</rss>
