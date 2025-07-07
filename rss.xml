@@ -4,11 +4,19 @@
         <title>IndulgeBack</title>
         <link>https://indulgeback.github.io</link>
         <description>迷恋阿丽，热爱技术，期待你我的共同进步😜</description>
-        <lastBuildDate>Thu, 26 Jun 2025 05:26:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Jul 2025 10:56:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>LeviLiu</generator>
         <language>zh</language>
         <copyright>Copyright © 2020-present LeviLiu</copyright>
+        <item>
+            <title><![CDATA[Next.js 配置 pageExtensions]]></title>
+            <link>https://indulgeback.github.io/posts/Next.js/1、Next.js 配置 pageExtensions 调研</link>
+            <guid>https://indulgeback.github.io/posts/Next.js/1、Next.js 配置 pageExtensions 调研</guid>
+            <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[深入解析 Next.js 的 pageExtensions 配置项，涵盖其作用、源码实现逻辑、常见用法及注意事项，助你灵活定制页面扩展名。]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
         <item>
             <title><![CDATA[🎬 开源宝藏：Video Frame Extractor，视频帧提取神器]]></title>
             <link>https://indulgeback.github.io/posts/开源工具/1、🎬 开源宝藏：Video Frame Extractor，视频帧提取神器</link>
@@ -79,14 +87,6 @@
             <guid>https://indulgeback.github.io/posts/技术内功/2、面对对象 - 类与类之间的关系</guid>
             <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[介绍了类与类之间的关系]]></description>
-            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
-        </item>
-        <item>
-            <title><![CDATA[NestJS入门]]></title>
-            <link>https://indulgeback.github.io/posts/NestJS/1、NestJS入门</link>
-            <guid>https://indulgeback.github.io/posts/NestJS/1、NestJS入门</guid>
-            <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[介绍了NestJS入门, 包括起步、安装nestjs/cli、命令行工具、NestJS结构介绍。]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
     </channel>
