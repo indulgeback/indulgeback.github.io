@@ -4,7 +4,7 @@
         <title>IndulgeBack</title>
         <link>https://indulgeback.github.io</link>
         <description>迷恋阿丽，热爱技术，期待你我的共同进步😜</description>
-        <lastBuildDate>Thu, 17 Jul 2025 01:28:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Jul 2025 06:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>LeviLiu</generator>
         <language>zh</language>
@@ -18,9 +18,9 @@
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
         <item>
-            <title><![CDATA[🎬 开源宝藏：Video Frame Extractor，视频帧提取神器]]></title>
-            <link>https://indulgeback.github.io/posts/开源工具/1、🎬 开源宝藏：Video Frame Extractor，视频帧提取神器</link>
-            <guid>https://indulgeback.github.io/posts/开源工具/1、🎬 开源宝藏：Video Frame Extractor，视频帧提取神器</guid>
+            <title><![CDATA[🎬 开源工具：Video Frame Extractor，视频帧提取神器]]></title>
+            <link>https://indulgeback.github.io/posts/开源工具/1、🎬 开源工具：Video Frame Extractor，视频帧提取神器</link>
+            <guid>https://indulgeback.github.io/posts/开源工具/1、🎬 开源工具：Video Frame Extractor，视频帧提取神器</guid>
             <pubDate>Wed, 25 Jun 2025 16:00:00 GMT</pubDate>
             <description><![CDATA[详细介绍了一款基于OpenCV的开源视频帧提取工具Video Frame Extractor，包括其功能特性、安装使用方法、性能优势以及适用场景，为视频处理工作提供高效解决方案。]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
