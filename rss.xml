@@ -4,7 +4,7 @@
         <title>IndulgeBack</title>
         <link>https://indulgeback.github.io</link>
         <description>迷恋阿丽，热爱技术，期待你我的共同进步😜</description>
-        <lastBuildDate>Tue, 22 Jul 2025 08:57:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Jul 2025 09:01:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>LeviLiu</generator>
         <language>zh</language>
@@ -23,6 +23,14 @@
             <guid>https://indulgeback.github.io/posts/实用工具/5、git stash</guid>
             <pubDate>Sun, 20 Jul 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[详细介绍 git stash 的用法、常见场景与注意事项]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[🌐 开源工具：next-auto-translator，国际化自动增量翻译脚本包]]></title>
+            <link>https://indulgeback.github.io/posts/开源工具/2、🌐  开源工具：国际化自动增量翻译脚本包「next-auto-translator」</link>
+            <guid>https://indulgeback.github.io/posts/开源工具/2、🌐  开源工具：国际化自动增量翻译脚本包「next-auto-translator」</guid>
+            <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[详细介绍了一款基于 Bing 翻译 API 的 Next.js 国际化自动增量翻译脚本 next-auto-translator，包括其功能特性、安装与使用方法、配置说明及注意事项，助力开发者高效实现多语言支持。]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
         <item>
@@ -79,14 +87,6 @@
             <guid>https://indulgeback.github.io/posts/技术内功/4、V8垃圾回收与GC算法</guid>
             <pubDate>Sat, 11 Jan 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[介绍了V8垃圾回收与GC算法]]></description>
-            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
-        </item>
-        <item>
-            <title><![CDATA[性能优化之requestAnimationFrame与requestIdleCallback]]></title>
-            <link>https://indulgeback.github.io/posts/技术内功/3、性能优化之requestAnimationFrame与requestIdleCallback</link>
-            <guid>https://indulgeback.github.io/posts/技术内功/3、性能优化之requestAnimationFrame与requestIdleCallback</guid>
-            <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[介绍了requestAnimationFrame与requestIdleCallback的用法和适用场景]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
     </channel>
