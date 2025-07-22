@@ -4,11 +4,27 @@
         <title>IndulgeBack</title>
         <link>https://indulgeback.github.io</link>
         <description>迷恋阿丽，热爱技术，期待你我的共同进步😜</description>
-        <lastBuildDate>Tue, 22 Jul 2025 06:38:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Jul 2025 08:57:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>LeviLiu</generator>
         <language>zh</language>
         <copyright>Copyright © 2020-present LeviLiu</copyright>
+        <item>
+            <title><![CDATA[git cherry-pick 用法详解]]></title>
+            <link>https://indulgeback.github.io/posts/实用工具/6、git cherry-pick</link>
+            <guid>https://indulgeback.github.io/posts/实用工具/6、git cherry-pick</guid>
+            <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[详细介绍 git cherry-pick 的用法、常见场景与注意事项]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[git stash 用法详解]]></title>
+            <link>https://indulgeback.github.io/posts/实用工具/5、git stash</link>
+            <guid>https://indulgeback.github.io/posts/实用工具/5、git stash</guid>
+            <pubDate>Sun, 20 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[详细介绍 git stash 的用法、常见场景与注意事项]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
         <item>
             <title><![CDATA[Next.js 配置 pageExtensions]]></title>
             <link>https://indulgeback.github.io/posts/Next.js/1、Next.js 配置 pageExtensions 调研</link>
@@ -43,8 +59,8 @@
         </item>
         <item>
             <title><![CDATA[实用命令]]></title>
-            <link>https://indulgeback.github.io/posts/前端工具/4、实用命令</link>
-            <guid>https://indulgeback.github.io/posts/前端工具/4、实用命令</guid>
+            <link>https://indulgeback.github.io/posts/实用工具/4、实用命令</link>
+            <guid>https://indulgeback.github.io/posts/实用工具/4、实用命令</guid>
             <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[记录一些实用的开发命令]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
@@ -71,22 +87,6 @@
             <guid>https://indulgeback.github.io/posts/技术内功/3、性能优化之requestAnimationFrame与requestIdleCallback</guid>
             <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[介绍了requestAnimationFrame与requestIdleCallback的用法和适用场景]]></description>
-            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
-        </item>
-        <item>
-            <title><![CDATA[《JavaScript设计模式与开发实践》推荐]]></title>
-            <link>https://indulgeback.github.io/posts/书籍推荐/1、JavaScript设计模式与开发实践</link>
-            <guid>https://indulgeback.github.io/posts/书籍推荐/1、JavaScript设计模式与开发实践</guid>
-            <pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[介绍了JavaScript设计模式与开发实践这本书]]></description>
-            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
-        </item>
-        <item>
-            <title><![CDATA[面对对象 - 类与类之间的关系]]></title>
-            <link>https://indulgeback.github.io/posts/技术内功/2、面对对象 - 类与类之间的关系</link>
-            <guid>https://indulgeback.github.io/posts/技术内功/2、面对对象 - 类与类之间的关系</guid>
-            <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[介绍了类与类之间的关系]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
     </channel>
