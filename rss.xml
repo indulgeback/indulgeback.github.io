@@ -4,11 +4,19 @@
         <title>IndulgeBack</title>
         <link>https://indulgeback.github.io</link>
         <description>迷恋阿丽，热爱技术，期待你我的共同进步😜</description>
-        <lastBuildDate>Tue, 22 Jul 2025 09:01:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Nov 2025 12:27:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>LeviLiu</generator>
         <language>zh</language>
         <copyright>Copyright © 2020-present LeviLiu</copyright>
+        <item>
+            <title><![CDATA[Vue 的 Vapor mode 和 alien-signals]]></title>
+            <link>https://indulgeback.github.io/posts/源码探秘/1、Vue的Vapor模式和alien-signals</link>
+            <guid>https://indulgeback.github.io/posts/源码探秘/1、Vue的Vapor模式和alien-signals</guid>
+            <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[探究 Vue 3.6 引入了 `Vapor mode` 和 `alien-signals` 会带来怎样的性能优化。]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
         <item>
             <title><![CDATA[git cherry-pick 用法详解]]></title>
             <link>https://indulgeback.github.io/posts/实用工具/6、git cherry-pick</link>
@@ -79,14 +87,6 @@
             <guid>https://indulgeback.github.io/posts/书籍推荐/2、探索three.js</guid>
             <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[介绍了探索 three.js 这本书]]></description>
-            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
-        </item>
-        <item>
-            <title><![CDATA[V8垃圾回收与GC算法]]></title>
-            <link>https://indulgeback.github.io/posts/技术内功/4、V8垃圾回收与GC算法</link>
-            <guid>https://indulgeback.github.io/posts/技术内功/4、V8垃圾回收与GC算法</guid>
-            <pubDate>Sat, 11 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[介绍了V8垃圾回收与GC算法]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
     </channel>
