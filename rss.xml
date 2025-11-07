@@ -4,11 +4,19 @@
         <title>IndulgeBack</title>
         <link>https://indulgeback.github.io</link>
         <description>迷恋阿丽，热爱技术，期待你我的共同进步😜</description>
-        <lastBuildDate>Fri, 07 Nov 2025 12:27:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Nov 2025 12:31:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>LeviLiu</generator>
         <language>zh</language>
         <copyright>Copyright © 2020-present LeviLiu</copyright>
+        <item>
+            <title><![CDATA[Next.js 16 迁移指南]]></title>
+            <link>https://indulgeback.github.io/posts/Next.js/2、NextJS 16 迁移指南</link>
+            <guid>https://indulgeback.github.io/posts/Next.js/2、NextJS 16 迁移指南</guid>
+            <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[全面介绍 Next.js 16 的新特性和从 Next.js 14/15 迁移到 16 的完整指南，包括性能优化、开发体验升级、全栈功能增强及破坏性变更的处理方法。]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
         <item>
             <title><![CDATA[Vue 的 Vapor mode 和 alien-signals]]></title>
             <link>https://indulgeback.github.io/posts/源码探秘/1、Vue的Vapor模式和alien-signals</link>
@@ -79,14 +87,6 @@
             <guid>https://indulgeback.github.io/posts/实用工具/4、实用命令</guid>
             <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[记录一些实用的开发命令]]></description>
-            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
-        </item>
-        <item>
-            <title><![CDATA[《探索 three.js》推荐]]></title>
-            <link>https://indulgeback.github.io/posts/书籍推荐/2、探索three.js</link>
-            <guid>https://indulgeback.github.io/posts/书籍推荐/2、探索three.js</guid>
-            <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[介绍了探索 three.js 这本书]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
     </channel>
