@@ -4,7 +4,7 @@
         <title>IndulgeBack</title>
         <link>https://indulgeback.github.io</link>
         <description>迷恋阿丽，热爱技术，期待你我的共同进步😜</description>
-        <lastBuildDate>Fri, 07 Nov 2025 12:31:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Nov 2025 03:44:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>LeviLiu</generator>
         <language>zh</language>
@@ -31,6 +31,14 @@
             <guid>https://indulgeback.github.io/posts/实用工具/6、git cherry-pick</guid>
             <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[详细介绍 git cherry-pick 的用法、常见场景与注意事项]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[git revert 用法详解]]></title>
+            <link>https://indulgeback.github.io/posts/实用工具/7、git revert</link>
+            <guid>https://indulgeback.github.io/posts/实用工具/7、git revert</guid>
+            <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[详细介绍 git revert 的用法、常见场景与注意事项]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
         <item>
@@ -79,14 +87,6 @@
             <guid>https://indulgeback.github.io/posts/情感/2、我的大学</guid>
             <pubDate>Wed, 19 Mar 2025 16:00:00 GMT</pubDate>
             <description><![CDATA[我的大学生活]]></description>
-            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
-        </item>
-        <item>
-            <title><![CDATA[实用命令]]></title>
-            <link>https://indulgeback.github.io/posts/实用工具/4、实用命令</link>
-            <guid>https://indulgeback.github.io/posts/实用工具/4、实用命令</guid>
-            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[记录一些实用的开发命令]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
     </channel>
