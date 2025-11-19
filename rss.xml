@@ -4,11 +4,19 @@
         <title>IndulgeBack</title>
         <link>https://indulgeback.github.io</link>
         <description>迷恋阿丽，热爱技术，期待你我的共同进步😜</description>
-        <lastBuildDate>Wed, 19 Nov 2025 03:44:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Nov 2025 04:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>LeviLiu</generator>
         <language>zh</language>
         <copyright>Copyright © 2020-present LeviLiu</copyright>
+        <item>
+            <title><![CDATA[git revert 用法详解]]></title>
+            <link>https://indulgeback.github.io/posts/实用工具/7、git revert</link>
+            <guid>https://indulgeback.github.io/posts/实用工具/7、git revert</guid>
+            <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[详细介绍 git revert 的用法、常见场景与注意事项]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
         <item>
             <title><![CDATA[Next.js 16 迁移指南]]></title>
             <link>https://indulgeback.github.io/posts/Next.js/2、NextJS 16 迁移指南</link>
@@ -31,14 +39,6 @@
             <guid>https://indulgeback.github.io/posts/实用工具/6、git cherry-pick</guid>
             <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[详细介绍 git cherry-pick 的用法、常见场景与注意事项]]></description>
-            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
-        </item>
-        <item>
-            <title><![CDATA[git revert 用法详解]]></title>
-            <link>https://indulgeback.github.io/posts/实用工具/7、git revert</link>
-            <guid>https://indulgeback.github.io/posts/实用工具/7、git revert</guid>
-            <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[详细介绍 git revert 的用法、常见场景与注意事项]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
         <item>
