@@ -4,11 +4,19 @@
         <title>IndulgeBack</title>
         <link>https://indulgeback.github.io</link>
         <description>迷恋阿丽，热爱技术，期待你我的共同进步😜</description>
-        <lastBuildDate>Wed, 19 Nov 2025 04:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Nov 2025 07:50:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>LeviLiu</generator>
         <language>zh</language>
         <copyright>Copyright © 2020-present LeviLiu</copyright>
+        <item>
+            <title><![CDATA[Next.js(turbopack)项目集成svgr]]></title>
+            <link>https://indulgeback.github.io/posts/解决方案/3、Next.js(turbopack)项目集成svgr</link>
+            <guid>https://indulgeback.github.io/posts/解决方案/3、Next.js(turbopack)项目集成svgr</guid>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[本文档提供了一套完整的方案，用于在 Next.js (Turbopack) 项目中集成 SVGR，实现 SVG 图标的自动化管理和组件化使用。]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
         <item>
             <title><![CDATA[git revert 用法详解]]></title>
             <link>https://indulgeback.github.io/posts/实用工具/7、git revert</link>
@@ -79,14 +87,6 @@
             <guid>https://indulgeback.github.io/posts/技术内功/5、计算机网络</guid>
             <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[探索计算机网络基础知识，了解数据传输原理和网络协议栈的工作机制。]]></description>
-            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
-        </item>
-        <item>
-            <title><![CDATA[我的大学]]></title>
-            <link>https://indulgeback.github.io/posts/情感/2、我的大学</link>
-            <guid>https://indulgeback.github.io/posts/情感/2、我的大学</guid>
-            <pubDate>Wed, 19 Mar 2025 16:00:00 GMT</pubDate>
-            <description><![CDATA[我的大学生活]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
     </channel>
