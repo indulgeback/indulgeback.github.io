@@ -4,11 +4,19 @@
         <title>IndulgeBack</title>
         <link>https://indulgeback.github.io</link>
         <description>迷恋阿丽，热爱技术，期待你我的共同进步😜</description>
-        <lastBuildDate>Thu, 20 Nov 2025 09:32:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Nov 2025 08:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>LeviLiu</generator>
         <language>zh</language>
         <copyright>Copyright © 2020-present LeviLiu</copyright>
+        <item>
+            <title><![CDATA[CSS 包含块（Containing Block）]]></title>
+            <link>https://indulgeback.github.io/posts/CSS/2、CSS 包含块</link>
+            <guid>https://indulgeback.github.io/posts/CSS/2、CSS 包含块</guid>
+            <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[深入理解CSS包含块概念，包含块的定义、作用原理、确定规则以及在实际开发中的应用场景。]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
         <item>
             <title><![CDATA[Next.js(turbopack)项目集成svgr]]></title>
             <link>https://indulgeback.github.io/posts/解决方案/3、Next.js(turbopack)项目集成svgr</link>
@@ -79,14 +87,6 @@
             <guid>https://indulgeback.github.io/posts/开源工具/1、🎬 开源工具：Video Frame Extractor，视频帧提取神器</guid>
             <pubDate>Wed, 25 Jun 2025 16:00:00 GMT</pubDate>
             <description><![CDATA[详细介绍了一款基于OpenCV的开源视频帧提取工具Video Frame Extractor，包括其功能特性、安装使用方法、性能优势以及适用场景，为视频处理工作提供高效解决方案。]]></description>
-            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
-        </item>
-        <item>
-            <title><![CDATA[计算机网络]]></title>
-            <link>https://indulgeback.github.io/posts/技术内功/5、计算机网络</link>
-            <guid>https://indulgeback.github.io/posts/技术内功/5、计算机网络</guid>
-            <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[探索计算机网络基础知识，了解数据传输原理和网络协议栈的工作机制。]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
     </channel>
