@@ -4,11 +4,19 @@
         <title>IndulgeBack</title>
         <link>https://indulgeback.github.io</link>
         <description>迷恋阿丽，热爱技术，期待你我的共同进步😜</description>
-        <lastBuildDate>Mon, 08 Dec 2025 10:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Dec 2025 08:08:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>LeviLiu</generator>
         <language>zh</language>
         <copyright>Copyright © 2020-present LeviLiu</copyright>
+        <item>
+            <title><![CDATA[git rebase 实战场景]]></title>
+            <link>https://indulgeback.github.io/posts/实用工具/10、git rebase 实战场景</link>
+            <guid>https://indulgeback.github.io/posts/实用工具/10、git rebase 实战场景</guid>
+            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[详细介绍 git rebase 在实际项目中的应用场景、选择策略和协作注意事项]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
         <item>
             <title><![CDATA[git rebase 交互式操作]]></title>
             <link>https://indulgeback.github.io/posts/实用工具/9、git rebase 交互式操作</link>
@@ -79,14 +87,6 @@
             <guid>https://indulgeback.github.io/posts/实用工具/6、git cherry-pick</guid>
             <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[详细介绍 git cherry-pick 的用法、常见场景与注意事项]]></description>
-            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
-        </item>
-        <item>
-            <title><![CDATA[git stash 用法详解]]></title>
-            <link>https://indulgeback.github.io/posts/实用工具/5、git stash</link>
-            <guid>https://indulgeback.github.io/posts/实用工具/5、git stash</guid>
-            <pubDate>Sun, 20 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[详细介绍 git stash 的用法、常见场景与注意事项]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
     </channel>
