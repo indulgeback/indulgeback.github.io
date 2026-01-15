@@ -4,11 +4,19 @@
         <title>IndulgeBack</title>
         <link>https://indulgeback.github.io</link>
         <description>迷恋阿丽，热爱技术，期待你我的共同进步😜</description>
-        <lastBuildDate>Wed, 24 Dec 2025 02:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jan 2026 08:09:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>LeviLiu</generator>
         <language>zh</language>
         <copyright>Copyright © 2020-present LeviLiu</copyright>
+        <item>
+            <title><![CDATA[git rebase 高级技巧]]></title>
+            <link>https://indulgeback.github.io/posts/实用工具/11、git rebase 高级技巧</link>
+            <guid>https://indulgeback.github.io/posts/实用工具/11、git rebase 高级技巧</guid>
+            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[深入介绍 git rebase 的底层原理、高级选项和实用技巧]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
         <item>
             <title><![CDATA[git rebase 实战场景]]></title>
             <link>https://indulgeback.github.io/posts/实用工具/10、git rebase 实战场景</link>
@@ -79,14 +87,6 @@
             <guid>https://indulgeback.github.io/posts/源码探秘/1、Vue的Vapor模式和alien-signals</guid>
             <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[探究 Vue 3.6 引入了 `Vapor mode` 和 `alien-signals` 会带来怎样的性能优化。]]></description>
-            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
-        </item>
-        <item>
-            <title><![CDATA[git cherry-pick 用法详解]]></title>
-            <link>https://indulgeback.github.io/posts/实用工具/6、git cherry-pick</link>
-            <guid>https://indulgeback.github.io/posts/实用工具/6、git cherry-pick</guid>
-            <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[详细介绍 git cherry-pick 的用法、常见场景与注意事项]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
     </channel>
