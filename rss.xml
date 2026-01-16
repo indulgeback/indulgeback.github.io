@@ -4,7 +4,7 @@
         <title>IndulgeBack</title>
         <link>https://indulgeback.github.io</link>
         <description>迷恋阿丽，热爱技术，期待你我的共同进步😜</description>
-        <lastBuildDate>Thu, 15 Jan 2026 08:09:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jan 2026 13:24:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>LeviLiu</generator>
         <language>zh</language>
@@ -13,80 +13,80 @@
             <title><![CDATA[git rebase 高级技巧]]></title>
             <link>https://indulgeback.github.io/posts/实用工具/11、git rebase 高级技巧</link>
             <guid>https://indulgeback.github.io/posts/实用工具/11、git rebase 高级技巧</guid>
-            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 14 Jan 2026 16:00:00 GMT</pubDate>
             <description><![CDATA[深入介绍 git rebase 的底层原理、高级选项和实用技巧]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
         <item>
-            <title><![CDATA[git rebase 实战场景]]></title>
-            <link>https://indulgeback.github.io/posts/实用工具/10、git rebase 实战场景</link>
-            <guid>https://indulgeback.github.io/posts/实用工具/10、git rebase 实战场景</guid>
-            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[详细介绍 git rebase 在实际项目中的应用场景、选择策略和协作注意事项]]></description>
+            <title><![CDATA[OpenAI 落地实践]]></title>
+            <link>https://indulgeback.github.io/posts/AI与LLM/10、OpenAI 落地实践</link>
+            <guid>https://indulgeback.github.io/posts/AI与LLM/10、OpenAI 落地实践</guid>
+            <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[深入介绍 OpenAI API 的使用技巧和最佳实践]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
         <item>
-            <title><![CDATA[git rebase 交互式操作]]></title>
-            <link>https://indulgeback.github.io/posts/实用工具/9、git rebase 交互式操作</link>
-            <guid>https://indulgeback.github.io/posts/实用工具/9、git rebase 交互式操作</guid>
-            <pubDate>Mon, 08 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[详细介绍 git rebase 交互式模式的用法，包括编辑、删除、合并、重排序提交等高级操作]]></description>
+            <title><![CDATA[多 Agent 协作与规划]]></title>
+            <link>https://indulgeback.github.io/posts/AI与LLM/9、多 Agent 协作与规划</link>
+            <guid>https://indulgeback.github.io/posts/AI与LLM/9、多 Agent 协作与规划</guid>
+            <pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[深入介绍多 Agent 系统的协作模式和规划机制]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
         <item>
-            <title><![CDATA[git rebase 基础入门]]></title>
-            <link>https://indulgeback.github.io/posts/实用工具/8、git rebase 基础入门</link>
-            <guid>https://indulgeback.github.io/posts/实用工具/8、git rebase 基础入门</guid>
-            <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[详细介绍 git rebase 的基本概念、工作原理和基础用法，适合初次接触 rebase 的开发者学习]]></description>
+            <title><![CDATA[LangChain 框架实战]]></title>
+            <link>https://indulgeback.github.io/posts/AI与LLM/8、LangChain 框架实战</link>
+            <guid>https://indulgeback.github.io/posts/AI与LLM/8、LangChain 框架实战</guid>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[深入介绍 LangChain 框架的架构、核心组件和实战应用]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
         <item>
-            <title><![CDATA[Next.js(webpack)项目集成svgr]]></title>
-            <link>https://indulgeback.github.io/posts/解决方案/4、Next.js(webpack)项目集成svgr</link>
-            <guid>https://indulgeback.github.io/posts/解决方案/4、Next.js(webpack)项目集成svgr</guid>
-            <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[本文档提供了一套完整的方案，用于在 Next.js (Turbopack) 项目中集成 SVGR，实现 SVG 图标的自动化管理和组件化使用。]]></description>
+            <title><![CDATA[Agent 记忆与上下文管理]]></title>
+            <link>https://indulgeback.github.io/posts/AI与LLM/7、Agent 记忆与上下文管理</link>
+            <guid>https://indulgeback.github.io/posts/AI与LLM/7、Agent 记忆与上下文管理</guid>
+            <pubDate>Sun, 11 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[深入介绍 AI Agent 的记忆机制和上下文管理]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
         <item>
-            <title><![CDATA[CSS 包含块（Containing Block）]]></title>
-            <link>https://indulgeback.github.io/posts/CSS/2、CSS 包含块</link>
-            <guid>https://indulgeback.github.io/posts/CSS/2、CSS 包含块</guid>
-            <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[深入理解CSS包含块概念，包含块的定义、作用原理、确定规则以及在实际开发中的应用场景。]]></description>
+            <title><![CDATA[Function Calling 与工具使用]]></title>
+            <link>https://indulgeback.github.io/posts/AI与LLM/6、Function Calling 与工具使用</link>
+            <guid>https://indulgeback.github.io/posts/AI与LLM/6、Function Calling 与工具使用</guid>
+            <pubDate>Sat, 10 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[深入介绍 Function Calling 的原理、使用方法和实战技巧]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
         <item>
-            <title><![CDATA[Next.js(turbopack)项目集成svgr]]></title>
-            <link>https://indulgeback.github.io/posts/解决方案/3、Next.js(turbopack)项目集成svgr</link>
-            <guid>https://indulgeback.github.io/posts/解决方案/3、Next.js(turbopack)项目集成svgr</guid>
-            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[本文档提供了一套完整的方案，用于在 Next.js (Turbopack) 项目中集成 SVGR，实现 SVG 图标的自动化管理和组件化使用。]]></description>
+            <title><![CDATA[向量数据库详解]]></title>
+            <link>https://indulgeback.github.io/posts/AI与LLM/5、向量数据库详解</link>
+            <guid>https://indulgeback.github.io/posts/AI与LLM/5、向量数据库详解</guid>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[深入介绍向量数据库的原理、主流产品对比和实战部署]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
         <item>
-            <title><![CDATA[git revert 用法详解]]></title>
-            <link>https://indulgeback.github.io/posts/实用工具/7、git revert</link>
-            <guid>https://indulgeback.github.io/posts/实用工具/7、git revert</guid>
-            <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[详细介绍 git revert 的用法、常见场景与注意事项]]></description>
+            <title><![CDATA[RAG 技术深度解析]]></title>
+            <link>https://indulgeback.github.io/posts/AI与LLM/4、RAG 技术深度解析</link>
+            <guid>https://indulgeback.github.io/posts/AI与LLM/4、RAG 技术深度解析</guid>
+            <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[深入介绍 RAG（检索增强生成）技术的原理、实现和优化]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
         <item>
-            <title><![CDATA[Next.js 16 迁移指南]]></title>
-            <link>https://indulgeback.github.io/posts/Next.js/2、NextJS 16 迁移指南</link>
-            <guid>https://indulgeback.github.io/posts/Next.js/2、NextJS 16 迁移指南</guid>
-            <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[全面介绍 Next.js 16 的新特性和从 Next.js 14/15 迁移到 16 的完整指南，包括性能优化、开发体验升级、全栈功能增强及破坏性变更的处理方法。]]></description>
+            <title><![CDATA[AI Agent 原理与实践]]></title>
+            <link>https://indulgeback.github.io/posts/AI与LLM/3、AI Agent 原理与实践</link>
+            <guid>https://indulgeback.github.io/posts/AI与LLM/3、AI Agent 原理与实践</guid>
+            <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[深入介绍 AI Agent 的核心原理、组件架构和开发实战]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
         <item>
-            <title><![CDATA[Vue 的 Vapor mode 和 alien-signals]]></title>
-            <link>https://indulgeback.github.io/posts/源码探秘/1、Vue的Vapor模式和alien-signals</link>
-            <guid>https://indulgeback.github.io/posts/源码探秘/1、Vue的Vapor模式和alien-signals</guid>
-            <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[探究 Vue 3.6 引入了 `Vapor mode` 和 `alien-signals` 会带来怎样的性能优化。]]></description>
+            <title><![CDATA[LLM 进阶——微调与部署]]></title>
+            <link>https://indulgeback.github.io/posts/AI与LLM/2、LLM 进阶——微调与部署</link>
+            <guid>https://indulgeback.github.io/posts/AI与LLM/2、LLM 进阶——微调与部署</guid>
+            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[深入介绍 LLM 微调方法、训练技巧和本地部署方案]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
     </channel>
