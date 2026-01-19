@@ -4,11 +4,51 @@
         <title>IndulgeBack</title>
         <link>https://indulgeback.github.io</link>
         <description>迷恋阿丽，热爱技术，期待你我的共同进步😜</description>
-        <lastBuildDate>Fri, 16 Jan 2026 13:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jan 2026 07:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>LeviLiu</generator>
         <language>zh</language>
         <copyright>Copyright © 2020-present LeviLiu</copyright>
+        <item>
+            <title><![CDATA[Agent 评估与测试]]></title>
+            <link>https://indulgeback.github.io/posts/AI与LLM/15、Agent 评估与测试</link>
+            <guid>https://indulgeback.github.io/posts/AI与LLM/15、Agent 评估与测试</guid>
+            <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[深入介绍 Agent 系统的评估方法和测试策略]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[RAG 高级优化技巧]]></title>
+            <link>https://indulgeback.github.io/posts/AI与LLM/14、RAG 高级优化技巧</link>
+            <guid>https://indulgeback.github.io/posts/AI与LLM/14、RAG 高级优化技巧</guid>
+            <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[深入介绍 RAG 系统的高级优化方法和技巧]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[开源模型与本地部署]]></title>
+            <link>https://indulgeback.github.io/posts/AI与LLM/13、开源模型与本地部署</link>
+            <guid>https://indulgeback.github.io/posts/AI与LLM/13、开源模型与本地部署</guid>
+            <pubDate>Sun, 18 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[深入介绍开源 LLM 模型和本地部署方案]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[Google Gemini 落地实践]]></title>
+            <link>https://indulgeback.github.io/posts/AI与LLM/12、Google Gemini 落地实践</link>
+            <guid>https://indulgeback.github.io/posts/AI与LLM/12、Google Gemini 落地实践</guid>
+            <pubDate>Sat, 17 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[深入介绍 Google Gemini API 的使用技巧和多模态应用]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[Anthropic Claude 落地实践]]></title>
+            <link>https://indulgeback.github.io/posts/AI与LLM/11、Anthropic Claude 落地实践</link>
+            <guid>https://indulgeback.github.io/posts/AI与LLM/11、Anthropic Claude 落地实践</guid>
+            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[深入介绍 Anthropic Claude API 的使用技巧和最佳实践]]></description>
+            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
+        </item>
         <item>
             <title><![CDATA[git rebase 高级技巧]]></title>
             <link>https://indulgeback.github.io/posts/实用工具/11、git rebase 高级技巧</link>
@@ -47,46 +87,6 @@
             <guid>https://indulgeback.github.io/posts/AI与LLM/7、Agent 记忆与上下文管理</guid>
             <pubDate>Sun, 11 Jan 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[深入介绍 AI Agent 的记忆机制和上下文管理]]></description>
-            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
-        </item>
-        <item>
-            <title><![CDATA[Function Calling 与工具使用]]></title>
-            <link>https://indulgeback.github.io/posts/AI与LLM/6、Function Calling 与工具使用</link>
-            <guid>https://indulgeback.github.io/posts/AI与LLM/6、Function Calling 与工具使用</guid>
-            <pubDate>Sat, 10 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[深入介绍 Function Calling 的原理、使用方法和实战技巧]]></description>
-            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
-        </item>
-        <item>
-            <title><![CDATA[向量数据库详解]]></title>
-            <link>https://indulgeback.github.io/posts/AI与LLM/5、向量数据库详解</link>
-            <guid>https://indulgeback.github.io/posts/AI与LLM/5、向量数据库详解</guid>
-            <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[深入介绍向量数据库的原理、主流产品对比和实战部署]]></description>
-            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
-        </item>
-        <item>
-            <title><![CDATA[RAG 技术深度解析]]></title>
-            <link>https://indulgeback.github.io/posts/AI与LLM/4、RAG 技术深度解析</link>
-            <guid>https://indulgeback.github.io/posts/AI与LLM/4、RAG 技术深度解析</guid>
-            <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[深入介绍 RAG（检索增强生成）技术的原理、实现和优化]]></description>
-            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
-        </item>
-        <item>
-            <title><![CDATA[AI Agent 原理与实践]]></title>
-            <link>https://indulgeback.github.io/posts/AI与LLM/3、AI Agent 原理与实践</link>
-            <guid>https://indulgeback.github.io/posts/AI与LLM/3、AI Agent 原理与实践</guid>
-            <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[深入介绍 AI Agent 的核心原理、组件架构和开发实战]]></description>
-            <author>liuwenyu1937@outlook.com (LeviLiu)</author>
-        </item>
-        <item>
-            <title><![CDATA[LLM 进阶——微调与部署]]></title>
-            <link>https://indulgeback.github.io/posts/AI与LLM/2、LLM 进阶——微调与部署</link>
-            <guid>https://indulgeback.github.io/posts/AI与LLM/2、LLM 进阶——微调与部署</guid>
-            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[深入介绍 LLM 微调方法、训练技巧和本地部署方案]]></description>
             <author>liuwenyu1937@outlook.com (LeviLiu)</author>
         </item>
     </channel>
